@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is File from Branch1
 branch1
+=======
+this is File from conflict
+>>>>>>> 69b1f050302bb4e3d5863172ea234f57e254aaa5
