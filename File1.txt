@@ -1,1 +1,1 @@
-this is File from conflict
+this is File from conflict branch.
